@@ -4,6 +4,10 @@ body {
     font-family: figtree;
     font-size: 25px;
 }
+a {
+	text-decoration: inherit;
+	color: inherit;
+}
 #tg {
     color: #a6e3a1;
 }
